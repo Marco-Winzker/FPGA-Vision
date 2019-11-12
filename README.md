@@ -1,7 +1,7 @@
 # FPGA-Vision
 Learn about image processing with an FPGA. Video lectures explain algorithm and implementation of lane detection for automotive driving. Real hardware is available as a remote lab. 
 
-Projet page with video lectures and access to the remote lab:
+Project page with video lectures and access to the remote lab:
 https://www.h-brs.de/de/fpga-vision-lab
 
 The FPGA Vision Remote Lab is Open Education.
